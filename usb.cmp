@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-28 BZR 4644)-product date = Mon 21 Apr 2014 17:33:55 EEST
+Cmp-Mod V01 Created by Cvpcb (2014-06-05 BZR 4926)-product   date = Sat 14 Jun 2014 14:09:18 EEST
 
 BeginCmp
 TimeStamp = /52C5E7BA;
@@ -78,9 +78,9 @@ IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
-TimeStamp = /52C5D709;
+TimeStamp = /53539C36;
 Reference = C12;
-ValeurCmp = 1u;
+ValeurCmp = 4n7;
 IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
@@ -200,14 +200,35 @@ BeginCmp
 TimeStamp = /52C6BEB8;
 Reference = C29;
 ValeurCmp = 680u;
-IdModule  = ;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM5_RM2-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C6BEA9;
 Reference = C30;
 ValeurCmp = 680u;
-IdModule  = ;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_DM5_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5352AB15;
+Reference = C31;
+ValeurCmp = 33n;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5352B616;
+Reference = C32;
+ValeurCmp = 2u2;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5364A97C;
+Reference = C33;
+ValeurCmp = 2u2;
+IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
@@ -215,6 +236,13 @@ TimeStamp = /52C5DA1E;
 Reference = D1;
 ValeurCmp = MBRA210;
 IdModule  = smd_diodes:SMA_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5352C2AF;
+Reference = FB1;
+ValeurCmp = FILTER;
+IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
@@ -228,21 +256,21 @@ BeginCmp
 TimeStamp = /52CA6DB6;
 Reference = K1;
 ValeurCmp = CONN_3;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
 TimeStamp = /52CA6DC5;
 Reference = K2;
 ValeurCmp = CONN_3;
-IdModule  = PIN_ARRAY_3X1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C8556B;
 Reference = P2;
 ValeurCmp = CONN_1;
-IdModule  = 1pin;
+IdModule  = Wire_Pads:SolderWirePad_single_2-5mmDrill;
 EndCmp
 
 BeginCmp
@@ -302,16 +330,16 @@ IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
-TimeStamp = /52C5D4A3;
+TimeStamp = /53539C22;
 Reference = R9;
-ValeurCmp = 27k;
+ValeurCmp = 1M;
 IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
-TimeStamp = /52C5D494;
+TimeStamp = /5352AAED;
 Reference = R10;
-ValeurCmp = 13k;
+ValeurCmp = 100k;
 IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
@@ -428,59 +456,66 @@ IdModule  = smd_passives:SMD0805_WAVE;
 EndCmp
 
 BeginCmp
+TimeStamp = /5352AAD9;
+Reference = R27;
+ValeurCmp = 220k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
 TimeStamp = /52C5CBB8;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = PIN_ARRAY_2X1;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C5CBA9;
 Reference = SW2;
 ValeurCmp = SW_PUSH;
-IdModule  = PIN_ARRAY_2X1;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C5CBC7;
 Reference = SW3;
 ValeurCmp = SW_PUSH;
-IdModule  = PIN_ARRAY_2X1;
+IdModule  = ;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C5C6A7;
 Reference = U1;
-ValeurCmp = PCM2902C;
-IdModule  = ;
+ValeurCmp = PCM2906C;
+IdModule  = SMD_Packages:tssop-28;
 EndCmp
 
 BeginCmp
-TimeStamp = /52C5D3F7;
+TimeStamp = /5352A72E;
 Reference = U2;
-ValeurCmp = REG103-A;
-IdModule  = DPAK5;
+ValeurCmp = LP3982;
+IdModule  = SMD_Packages:SSOP8;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C69B7C;
 Reference = U3;
 ValeurCmp = TL082;
-IdModule  = SO8E;
+IdModule  = SMD_Packages:SO8N;
 EndCmp
 
 BeginCmp
 TimeStamp = /52C6A094;
 Reference = U4;
 ValeurCmp = TL082;
-IdModule  = SO8E;
+IdModule  = SMD_Packages:SO8N;
 EndCmp
 
 BeginCmp
-TimeStamp = /52C5CE88;
+TimeStamp = /53642059;
 Reference = X1;
-ValeurCmp = 12MHz 500 ppm;
-IdModule  = HC-49V;
+ValeurCmp = 12 MHz;
+IdModule  = Crystals_Oscillators_SMD:crystal_FA238-TSX3225;
 EndCmp
 
 EndListe
