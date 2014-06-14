@@ -1,0 +1,486 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-28 BZR 4644)-product date = Mon 21 Apr 2014 17:33:55 EEST
+
+BeginCmp
+TimeStamp = /52C5E7BA;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5E7AB;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CFC6;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CFB7;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CA76;
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5DFF5;
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5E004;
+Reference = C7;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5E1B8;
+Reference = C8;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5E266;
+Reference = C9;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5E490;
+Reference = C10;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5DA92;
+Reference = C11;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5D709;
+Reference = C12;
+ValeurCmp = 1u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69B8B;
+Reference = C13;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69B9A;
+Reference = C14;
+ValeurCmp = 100n;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A068;
+Reference = C15;
+ValeurCmp = 330p;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69BE9;
+Reference = C16;
+ValeurCmp = 330p;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A080;
+Reference = C17;
+ValeurCmp = 1n8;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69C2F;
+Reference = C18;
+ValeurCmp = 1n8;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A07A;
+Reference = C19;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69C20;
+Reference = C20;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0EA;
+Reference = C21;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0B2;
+Reference = C22;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0F0;
+Reference = C23;
+ValeurCmp = 1n8;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0B8;
+Reference = C24;
+ValeurCmp = 1n8;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0D8;
+Reference = C25;
+ValeurCmp = 330p;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0A0;
+Reference = C26;
+ValeurCmp = 330p;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6B2AD;
+Reference = C27;
+ValeurCmp = 100n;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6B2BC;
+Reference = C28;
+ValeurCmp = 10u;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6BEB8;
+Reference = C29;
+ValeurCmp = 680u;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6BEA9;
+Reference = C30;
+ValeurCmp = 680u;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5DA1E;
+Reference = D1;
+ValeurCmp = MBRA210;
+IdModule  = smd_diodes:SMA_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5C6BE;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = connect:USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CA6DB6;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CA6DC5;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C8556B;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CB57;
+Reference = R1;
+ValeurCmp = 1k5;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CB66;
+Reference = R2;
+ValeurCmp = 1k5;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CB75;
+Reference = R3;
+ValeurCmp = 1k5;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5C781;
+Reference = R4;
+ValeurCmp = 22;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5C798;
+Reference = R5;
+ValeurCmp = 22;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5C815;
+Reference = R6;
+ValeurCmp = 1k5;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CF1A;
+Reference = R7;
+ValeurCmp = 1M;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CA39;
+Reference = R8;
+ValeurCmp = 2R2;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5D4A3;
+Reference = R9;
+ValeurCmp = 27k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5D494;
+Reference = R10;
+ValeurCmp = 13k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A062;
+Reference = R11;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69BDA;
+Reference = R12;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A06E;
+Reference = R13;
+ValeurCmp = 3k9;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69C02;
+Reference = R14;
+ValeurCmp = 3k9;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A074;
+Reference = R15;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69C11;
+Reference = R16;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0E4;
+Reference = R17;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0AC;
+Reference = R18;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0DE;
+Reference = R19;
+ValeurCmp = 3k9;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0A6;
+Reference = R20;
+ValeurCmp = 3k9;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A0D2;
+Reference = R21;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A09A;
+Reference = R22;
+ValeurCmp = 12k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C84ACD;
+Reference = R23;
+ValeurCmp = 100k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C84ADC;
+Reference = R24;
+ValeurCmp = 100k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C84AEB;
+Reference = R25;
+ValeurCmp = 100k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C84ABE;
+Reference = R26;
+ValeurCmp = 100k;
+IdModule  = smd_passives:SMD0805_WAVE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CBB8;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CBA9;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CBC7;
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5C6A7;
+Reference = U1;
+ValeurCmp = PCM2902C;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5D3F7;
+Reference = U2;
+ValeurCmp = REG103-A;
+IdModule  = DPAK5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C69B7C;
+Reference = U3;
+ValeurCmp = TL082;
+IdModule  = SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C6A094;
+Reference = U4;
+ValeurCmp = TL082;
+IdModule  = SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5CE88;
+Reference = X1;
+ValeurCmp = 12MHz 500 ppm;
+IdModule  = HC-49V;
+EndCmp
+
+EndListe

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name smd_passives)(type KiCad)(uri footprint/ojousima/SMD_Passives.pretty)(options "")(descr ""))
+  (lib (name smd_diodes)(type KiCad)(uri footprint/ojousima/SMD_Diodes.pretty)(options "")(descr ""))
+  (lib (name connect)(type KiCad)(uri footprint/kicad/Connect.pretty)(options "")(descr ""))
+  (lib (name smd_connectors)(type KiCad)(uri footprint/ojousima/SMD_Connectors.pretty)(options "")(descr ""))
+)
